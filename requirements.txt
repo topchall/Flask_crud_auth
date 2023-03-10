@@ -1,0 +1,6 @@
+Flask
+pyodbc
+Flask-Mail
+flask-sqlalchemy
+Flask-Bcrypt
+Flask-Login

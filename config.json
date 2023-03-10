@@ -1,0 +1,10 @@
+{
+    "SECRET_KEY": "flask_sqlserver",
+
+    "SQLALCHEMY_DATABASE_URI" : "DRIVER={ODBC Driver 17 for SQL Server};SERVER=localhost;PORT=;DATABASE=flaskdb;Trusted_Connection=yes;",
+
+    "EMAIL_USER": "topchallenger0204@gmail.com",
+
+    "EMAIL_PASS": "Topchallenger-0204"
+
+}
